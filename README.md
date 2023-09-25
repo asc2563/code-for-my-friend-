@@ -11,4 +11,15 @@ list:
 [code sand box sign up](https://codesandbox.io/signin?utm_source=landingpage)
 4. sign up for [replit](https://repl.it) here click continue with github: 
 [replit sign up](https://replit.com/signup)
-here's some js to help
+here's some js to help (js is in bold):
+**
+var myvar = prompt('1 or 2'); 
+   if (myvar == '1') {
+     alert('I know you typed 1');
+//code for option 1//
+      else if (myvar == '2') {
+         alert('I know you typed 2')
+       }
+          else {
+      alert('please enter a valid option')
+**
