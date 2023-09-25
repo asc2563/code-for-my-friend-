@@ -16,7 +16,7 @@ here's some js to help:
 var myvar = prompt('1 or 2'); 
    if (myvar == '1') {
      alert('I know you typed 1');
-//code for option 1//
+//code for option 1// 
       } else if (myvar == '2') {
          alert('I know you typed 2')
 //code for option 2//
